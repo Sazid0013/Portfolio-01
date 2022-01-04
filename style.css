@@ -56,10 +56,28 @@ section{
     padding: 0;
     background-color: lightcoral;
 }
+.academic img{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 200%;
+    margin-right: 0;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 80%;
+}
 .Personal{
     margin: 5%;
     padding: 0;
     background-color: lightsalmon;
+}
+.Personal img{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 200%;
+    margin-right: 0;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 80%;
 }
 footer{
     text-align: center;
