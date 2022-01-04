@@ -34,7 +34,6 @@ section{
     padding-bottom: 30%;
     margin-right: 5%;
     margin-top: 10%;
-    
 }
 #skill{
     margin: 5%;
@@ -48,6 +47,11 @@ section{
 }
 .face-value2.1{
     padding-left: 0%;
-    padding-right: 15%;
+    padding-right: 15% ;
     margin
+}
+.academic{
+    margin: 5%;
+    padding: 0;
+    background-color: lightcoral;
 }
