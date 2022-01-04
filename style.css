@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    text-align: justify;
+}
+.name{
+    color: darkorange;
+}
+section{
+    display: flex;
+}
+.face-value{
+    width: 50%;
+    padding-left: 10%;
+}
+.face-value img{
+    width: 40%;
+    padding-left: 0%;
+    margin: 5%;
+}
+.face-value1{
+    margin: 0% 5% ;
+    padding-left: 5%;
+    padding-right: 16%;
+}
