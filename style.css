@@ -26,6 +26,7 @@ section{
     padding-left: 10%;
     padding-right: 20%;
     margin-top: 5% ;
+    text-align: center;
 }
 .face-value1 img{
     padding-top: 2%;
@@ -54,4 +55,9 @@ section{
     margin: 5%;
     padding: 0;
     background-color: lightcoral;
+}
+.Personal{
+    margin: 5%;
+    padding: 0;
+    background-color: lightsalmon;
 }
