@@ -61,3 +61,20 @@ section{
     padding: 0;
     background-color: lightsalmon;
 }
+footer{
+    text-align: center;
+}
+.link-button1{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 169, 71) ,rgb(255, 123, 0));
+    padding: 10px ;
+    border-radius: 10px;
+    
+}
+.link-button2{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 221, 71, 0.959) ,rgb(255, 102, 0));
+    padding: 10px ;
+    border-radius: 10px;
+   
+}
