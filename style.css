@@ -2,6 +2,8 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     text-align: justify;
+    background-image: url(Image/top-banner.png);
+    background-repeat: no-repeat;
 }
 .name{
     color: darkorange;
@@ -94,11 +96,13 @@ section{
 }
 footer{
     text-align: center;
+    background-image: url(Image/light-1198162.jpg);
+    background-repeat: no-repeat;
 }
 .link-button1{
     text-decoration: none;
     background-image: linear-gradient(rgb(255, 169, 71) ,rgb(255, 123, 0));
-    padding: 10px ;
+    padding: 5px ;
     border-radius: 10px;
 }
 .link-button2{
@@ -106,4 +110,10 @@ footer{
     background-image: linear-gradient(rgba(255, 221, 71, 0.959) ,rgb(255, 102, 0));
     padding: 10px ;
     border-radius: 10px;
+}
+.mail{
+ color: cyan;
+}
+.copyright{
+    color: darkgray;
 }
